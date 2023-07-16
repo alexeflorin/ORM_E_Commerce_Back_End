@@ -42,9 +42,12 @@ None
 ![Github license](https://img.shields.io/badge/license-MIT-orange.svg)
 
 
-## Tests
+## Mock-Up
+[Below is the gif shows an example of the application's API routes being tested in Insomnia Core](./assets/GET%20routes/getRoutesALL.gif)
 
-undefined
+
+## Walkthrough Video
+[This video shows the functionality of the application](https://watch.screencastify.com/v/13D4uZV1uwnFkiBIdz2u)
 
 
 ## Questions
